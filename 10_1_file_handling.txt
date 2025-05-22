@@ -1,0 +1,12 @@
+Hello world
+I am writing in a file
+Hello world
+I am writing in a file are you ready
+Hello world
+I am writing in a file are you ready
+THis is testingHello world
+I am writing in a file are you ready
+THis is testing
+I love python
+
+I am new to python
