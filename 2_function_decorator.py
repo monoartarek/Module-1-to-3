@@ -5,6 +5,6 @@ def my_decorator(func):
 
 @my_decorator
 def say_hello():
-    print("hello")
+    print("hello world")
 
 say_hello()
