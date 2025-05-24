@@ -1,0 +1,20 @@
+Title Case:
+text = "Hello World"
+
+Sentence Case:
+text = "Hello world"
+
+Camel Case:
+text = "helloWorldExample"
+
+Pascal Case (Upper Camel Case):
+text = "HelloWorldExample"
+
+ Snake Case:
+ text = "hello_world_example"
+
+Kebab Case:
+text = "hello-world-example"
+
+Spongebob Case (fun/random case):
+text = "HeLLo WoRLd"

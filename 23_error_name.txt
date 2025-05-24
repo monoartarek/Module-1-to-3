@@ -1,0 +1,7 @@
+1) syntex vul hoile SyntexError
+2) jodi ekta unknown variable dei but seta define kora nai tahole NameError ashbe
+3) jodi string er sathe int + kori tahole TypeError ashbe 
+4) Jodi int("hello") mane hocche jodi variable er vetore wrong value dei tahole ValueError ashbe
+5) IndexError -->wrong error
+6) KeyError-->dictionary te key value pair e jodi problem thake 
+7) ZeroDivisionError    
